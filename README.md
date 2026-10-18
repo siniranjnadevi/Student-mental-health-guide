@@ -1,2 +1,2 @@
-# Student-mental-health-guide
-"A vibrant, student-focused awareness campaign guide and poster designed to combat academic burnout, dismantle toxic hustle culture, and promote holistic mental wellness."
+This project is what I made for my Aurix Design Domain weekly challenge. It focuses on something super common for college students—academic burnout and toxic hustle culture. Instead of buying into the idea that we need to study 24/7 and pull all-nighters, I designed an awareness poster to push back against that mental drain.
+The poster uses a clean white background with friendly pastel tones and vector icons to break down helpful ideas easily. It covers everything from digital detox and micro-breaks to sleep hygiene, proper nutrition, and positive daily reminders. The core message is simple: rest isn't laziness, and your mental health comes first. I've submitted both the final PNG design and the short PDF documentation to complete the task!
